@@ -1,9 +1,4 @@
 
----
-
-# 4. E-Commerce Store
-
-```md
 # E-Commerce Store
 
 ## Overview
